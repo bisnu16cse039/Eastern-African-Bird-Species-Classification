@@ -13,7 +13,7 @@ The dataset utilized in this work contains nearly 17,000 bird sound recordings a
 **Paper Link:** [PLOS ONE Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305708)
 
 **Citation:**
-> Baowaly MK, Sarkar BC, Walid MAA, Ahamad MM, Singh BC, Alvarado ES, et al. (2024) Deep transfer learning-based bird species classification using mel spectrogram images. PLoS ONE 19(8): e0305708. https://doi.org/10.1371/journal.pone.0305708
+> Bisnu Chandra Sarkar, Baowaly MK, Walid MAA, Ahamad MM, Singh BC, Alvarado ES, et al. (2024) Deep transfer learning-based bird species classification using mel spectrogram images. PLoS ONE 19(8): e0305708. https://doi.org/10.1371/journal.pone.0305708
 
 ## Dataset
 The dataset utilized in this article was obtained from the **BirdCLEF 2023** competition.
